@@ -1,0 +1,13 @@
+requests
+langchain
+black
+openai
+install
+google-search-results
+tweepy
+flask
+langchain-openai
+python-dotenv
+langchain-community
+langchainhub
+pydantic==1.10.13

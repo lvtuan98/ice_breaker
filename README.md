@@ -22,8 +22,10 @@ To run this project, you will need to add the following environment variables to
 
 `TWITTER_API_KEY`
 
-`TWITTER_API_SECRET`
+`TWITTER_API_KEY_SECRET`
+
+`TWITTER_BEARER_TOKEN`
 
 `TWITTER_ACCESS_TOKEN`
 
-`TWITTER_ACCESS_SECRET`
+`TWITTER_ACCESS_TOKEN_SECRET`
